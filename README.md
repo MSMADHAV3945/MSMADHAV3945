@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @MSMADHAV3945
-- 👀 I’m interested in Full stack developing
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Web and App Building
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Hi, I’m Madhav
+- I am a professional Full Stack developer 
+- Aspiring Blockchain Developer
+- Web3 Beginner
+- React.js / Node.js
+- Passionate in ui/ux design too..
+- Learning App Development
+- Always looking for developing things in a good way..
+- Still Learning
 
 <!---
 MSMADHAV3945/MSMADHAV3945 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
